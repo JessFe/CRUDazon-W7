@@ -22,5 +22,5 @@ The challenge was to bring a static interface to life by connecting it with APIs
 </details>
 <details>
 <summary>Project's Video: Click here!</summary>
-<a href="[https://github.com/JessFe/NetflixClone-W6/raw/main/preview/2023-12-02-21-12-22.mp4](https://github.com/JessFe/CRUDazon-W7/raw/main/preview/2023-12-09-23-01-14_compr.mp4)">➡ Video Download</a>
+<a href="https://github.com/JessFe/CRUDazon-W7/raw/main/preview/2023-12-09-23-01-14_compr.mp4">➡ Video Download</a>
 </details>
